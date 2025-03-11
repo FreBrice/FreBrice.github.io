@@ -1,0 +1,40 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    background-color: #8F9491;
+    margin: 0px;
+    padding: 0px;
+    
+}
+nav{
+    display: block;
+    max-width: 800px;
+    margin: 10px 0;
+    padding: 10px 500px;
+    
+    border: 1px solid #BCA3AC;
+    border-radius: 5px;
+}
+h1 {
+    font: bold 50px verdana, sans-serif;
+    }
+h2 {
+    font: bold 25px verdana, sans-serif;
+    }
+aside{
+    float: left;
+    text-align: center;
+}
+main{
+    float: left;
+}
+img{
+    width: 200px;
+    border-radius: 5%;
+}
+footer{
+    text-align: center;
+    display: block;
+    clear: both;
+}
